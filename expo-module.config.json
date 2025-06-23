@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ReactNativeHapticsModule"]
+  },
+  "android": {
+    "modules": ["com.louiscapelle.haptics.ReactNativeHapticsModule"]
+  }
+}
