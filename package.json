@@ -1,5 +1,5 @@
 {
-  "name": "react-native-haptics",
+  "name": "@louiscapelle/react-native-haptics",
   "version": "0.1.0",
   "description": "React Native Haptics",
   "main": "build/index.js",
